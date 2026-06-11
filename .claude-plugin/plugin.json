@@ -1,0 +1,22 @@
+{
+  "name": "flask",
+  "description": "Flask (flask.do) - the feedback layer for agentic video. Upload renders for human review, get a shareable link instantly, listen for feedback (voice recordings with AI transcripts, timestamped comments), and push revisions as versions of the same asset.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Flask",
+    "email": "hello@flask.do",
+    "url": "https://flask.do"
+  },
+  "homepage": "https://flask.do/mcp",
+  "repository": "https://github.com/enritarta/flask-plugin",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "feedback",
+    "review",
+    "mcp",
+    "agentic-video",
+    "remotion",
+    "video-editing"
+  ]
+}

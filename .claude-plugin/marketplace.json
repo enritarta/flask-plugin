@@ -1,0 +1,15 @@
+{
+  "name": "flask",
+  "owner": {
+    "name": "Flask",
+    "email": "hello@flask.do",
+    "url": "https://flask.do"
+  },
+  "plugins": [
+    {
+      "name": "flask",
+      "source": "./",
+      "description": "Upload videos to Flask (flask.do) for human feedback and iterate on review comments - the feedback layer for agentic video editing."
+    }
+  ]
+}
