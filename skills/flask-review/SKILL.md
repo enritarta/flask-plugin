@@ -5,9 +5,11 @@ description: Upload a video to Flask (flask.do) for human feedback and iterate o
 
 # Flask Review Loop
 
-Flask is a video review platform. Humans leave feedback as timestamped comments and
-voice/screen recordings; Flask AI extracts transcripts and summaries so you can read
-every piece of feedback as text, anchored to a video timestamp.
+Flask is the feedback layer for video. Reviewers hit record and talk through the
+video (voice, camera, screen, drawing on frames) instead of typing; Flask turns the
+recording into individual timestamped comments with transcripts and summaries, so
+you can read every piece of feedback as text anchored to a video timestamp. Typed
+comments arrive the same way.
 
 All access goes through the Flask MCP server (`flask`), included with this plugin
 (https://api.flask.do/api/mcp/mcp). If its tools are unavailable, the user needs to

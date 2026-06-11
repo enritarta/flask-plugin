@@ -9,7 +9,7 @@
     {
       "name": "flask",
       "source": "./",
-      "description": "Upload videos to Flask (flask.do) for human feedback and iterate on review comments - the feedback layer for agentic video editing."
+      "description": "Upload videos to Flask (flask.do) for human review. Reviewers talk through feedback on the video; the agent reads it as structured, timestamped comments and iterates with versions."
     }
   ]
 }

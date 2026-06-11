@@ -1,9 +1,12 @@
 # Flask plugin for Claude Code
 
-[Flask](https://flask.do) is the feedback layer for agentic video: your agent uploads
-a render, a human reviews it on flask.do (timestamped comments + voice/screen
-recordings with AI transcripts), and the agent reads the feedback and iterates -
-pushing each revision as a new version of the same asset.
+[Flask](https://flask.do) is the feedback layer for video, built for the agentic
+loop: your agent uploads a render and shares the link instantly. The reviewer
+doesn't type - they hit record and talk through the video (voice, camera, screen,
+drawing on frames), and Flask turns the recording into structured, timestamped
+comments with transcripts. The agent reads that feedback and iterates, pushing
+each revision as a new version of the same asset. Typed comments work too -
+recordings are the advantage, not a requirement.
 
 This plugin connects the [Flask MCP server](https://flask.do/mcp) and teaches the
 agent the full review loop.

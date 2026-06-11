@@ -1,7 +1,7 @@
 {
   "name": "flask",
-  "description": "Flask (flask.do) - the feedback layer for agentic video. Upload renders for human review, get a shareable link instantly, listen for feedback (voice recordings with AI transcripts, timestamped comments), and push revisions as versions of the same asset.",
-  "version": "1.0.0",
+  "description": "Flask (flask.do) - the feedback layer for video, built for the agentic loop. Your agent uploads a render and shares the link instantly; the reviewer hits record and talks through the video (voice, screen, drawing on frames) and Flask turns it into structured, timestamped comments with transcripts; the agent reads them and pushes revisions as versions of the same asset.",
+  "version": "1.0.1",
   "author": {
     "name": "Flask",
     "email": "hello@flask.do",
